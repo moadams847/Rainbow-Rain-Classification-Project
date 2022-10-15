@@ -19,12 +19,9 @@ pip install -r requirements.txt
 
 ## Tech/framework used
 
-1. Pandas
-2. numpy
-3. matplotlib
-4. seaborn
-5. sklearn
-6. fastAI
+1. fastAI
+2. gradio
+3. Pillow
 
 ## License
 
