@@ -7,7 +7,11 @@ A computer vision project using kaggle-downloaded data.
 I just started the Fast.ai course, and I’m here to share what I’ve built and discovered. I’m not a renowned data scientist. It’s all about making time to learn and making mistakes.
 
 ## Project Notebook
-1. [RainbowRain_Classification_Experiment Notebook](https://colab.research.google.com/drive/1kkGl_9PESmv7nGin143HCEqN8169TjVv)
+[Rainbow-Rain-Classifcation](https://www.kaggle.com/code/adamsmohammed/rainbow-rain-classifcation)
+
+## Rainbow-Rain-Classifcation Deployed App 
+
+[APP URL](https://huggingface.co/spaces/moadams/rainbowRainClassificationAPP)
 
 ## Installation
 
