@@ -9,9 +9,9 @@ I just started the Fast.ai course, and I’m here to share what I’ve built and
 ## Project Notebook
 [Rainbow-Rain-Classifcation](https://www.kaggle.com/code/adamsmohammed/rainbow-rain-classifcation)
 
-## Rainbow-Rain-Classifcation Deployed App 
+## Rainbow-Rain-Classifcation APP
 
-[APP URL](https://huggingface.co/spaces/moadams/rainbowRainClassificationAPP)
+[Deployed URL](https://huggingface.co/spaces/moadams/rainbowRainClassificationAPP)
 
 ## Installation
 
