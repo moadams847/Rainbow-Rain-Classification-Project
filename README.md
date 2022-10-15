@@ -1,4 +1,4 @@
-# Classification of rainbows and rain using fastAI 	.
+# Classification of rainbows and raindrops using fastAI and Python.
 
 A computer vision project using kaggle-downloaded data.
 
