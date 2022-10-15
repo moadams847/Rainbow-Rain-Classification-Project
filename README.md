@@ -1,4 +1,4 @@
-# # Feature engineering of house price data set from kaggle.
+# Python and fastAI project to classify rainbows and rain.
 
 A computer vision project using kaggle-downloaded data.
 
